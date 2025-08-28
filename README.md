@@ -3,6 +3,8 @@
 
 # Instalación
 1. Abre una terminal (en una carpeta de tu computadora) y Clona el repositorio del proyecto:
-    git clone https://github.com/Bookfilm/BookMatch-SGC.git
+```bash
+  git clone https://github.com/Bookfilm/BookMatch-SGC.git 
+```
 
 
